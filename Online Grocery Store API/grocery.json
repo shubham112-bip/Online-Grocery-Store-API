@@ -1,0 +1,25 @@
+{
+  "products":[ 
+  {
+    "id": 1,
+    "name": "pepsi",
+    "category": "Soft Drinks",
+    "price": 20,
+    "inStock": true,
+    "quantity": 350,
+    "brand": "PepsiCo"
+  },
+  {
+    "id": 3,
+    "name": "Amul Butter",
+    "category": "Dairy Prodcuts",
+    "price": 500,
+    "inStock": false,
+    "quantity": 350,
+    "brand": "Amul"
+  }
+],
+"Users":[{
+  
+}]
+}
